@@ -1,5 +1,7 @@
 Hi there 👋
-- 🌱 I’m currently learning EPICODE
+
+🌱 I'm learning to become Full stack Developer on EPICODE (https://epicode.com/it/)
+
   <img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
