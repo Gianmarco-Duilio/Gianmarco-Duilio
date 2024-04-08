@@ -25,6 +25,6 @@ Hi there 👋
   </tr>
 </table>
 <br/>
-<hr/>
+
 <h1>Contact</h1>
 <p>gianmarcoduilio@gmail.com</p>
