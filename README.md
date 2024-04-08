@@ -1,7 +1,10 @@
-Hi there 👋
+<h1>Hi there 👋</h1>
 
 🌱 I'm learning to become Full stack Developer with EPICODE school (https://epicode.com/it/).</br>
 🌍 I currently reside and live in Anzio (Rome), Italy
+<hr/>
+<h3>Contact:</h3>
+<p>gianmarcoduilio@gmail.com</p>
 
   <img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
@@ -24,6 +27,4 @@ Hi there 👋
     
   </tr>
 </table>
-<hr/>
-<h3>Contact:</h3>
-<p>gianmarcoduilio@gmail.com</p>
+
