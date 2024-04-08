@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 
 🌱 I'm learning to become Full stack Developer with EPICODE school (https://epicode.com/it/).</br>
-🌍 I currently reside and live in Anzio (Rome), Italy
+🌍 I currently reside and live in Anzio (Rome), Italy 🟢⚪🔴
 <hr/>
 <h3>📫 How to reach me</h3>
 <p>gianmarcoduilio@gmail.com</p>
