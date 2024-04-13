@@ -1,4 +1,4 @@
-  <img src="https://ezgif.com/effects/ezgif-2-bb493dfe9d.gif" alt="lang image here" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="[https://ezgif.com/effects/ezgif-2-bb493dfe9d.gif](https://github.com/alansmathew/alansmathew/raw/master/lang.gi)" alt="lang image here" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
  <div align="center" > 
  
 
