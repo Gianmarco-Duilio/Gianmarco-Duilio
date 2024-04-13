@@ -1,4 +1,4 @@
-  <img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gi" alt="lang image here" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
  <div align="center" > 
  
 
