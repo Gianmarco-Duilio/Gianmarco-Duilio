@@ -1,4 +1,4 @@
-  <img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamh1dzIwNGRzZHM0cDVvZXA0dXZ3b2d3NnBxMGs4MGJpMHZ1MDhubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wrJzoSE5irnjRFYf6N/giphy.gif" alt="lang image here" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
  <div align="center" > 
  
 
