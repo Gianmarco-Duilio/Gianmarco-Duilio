@@ -25,11 +25,10 @@
     <td align="center">
       <img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=Gianmarco-Duilio&theme=prussian&show_icons=true&hide_border=true&count_private=false" alt="Gianmarco-Duilio's Stats" />
     </td>
-  </tr>  
-   <tr> </tr>  
+  
    <td align="center">
       <img class="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianmarco-Duilio&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Gianmarco-Duilio's Top Languages" />
-    </td>  <tr></tr>
+    </td>  </tr>
 </table>
 </hr>
 <div align="center" >
