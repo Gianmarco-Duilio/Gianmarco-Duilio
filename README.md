@@ -19,9 +19,6 @@
 
 <table align="center">
   <tr>
-    <td align="center" >
-      <img class="github-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Gianmarco-Duilio&theme=prussian&hide_border=true" alt="Gianmarco-Duilio's Streak" />
-    </td>
     <td align="center">
       <img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=Gianmarco-Duilio&theme=prussian&show_icons=true&hide_border=true&count_private=false" alt="Gianmarco-Duilio's Stats" />
     </td>
