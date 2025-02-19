@@ -3,7 +3,7 @@
  <div align="center" > 
  
 
-🌱 I'm learning to become Full stack Developer with EPICODE school (https://epicode.com/it/).</br>
+🌱 I'm learning to become Front-End Developer with Cespim/Nesea.</br>
 🌍 I currently reside and live in Anzio (Rome), Italy 🟢⚪🔴
 <hr/>
 <h3>📫 How to reach me</h3>
